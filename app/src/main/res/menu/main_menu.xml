@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/ic_sort"
+        android:title="sort"
+        android:onClick="onClickSort"
+        app:showAsAction="always"
+        >
+
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/all"-->
+<!--                android:title="All"-->
+<!--                android:icon="@drawable/radio_button_unchecked"-->
+<!--                app:showAsAction="never" />-->
+
+<!--            <item-->
+<!--                android:id="@+id/hour"-->
+<!--                android:title="Per Hour"-->
+<!--                android:icon="@drawable/radio_button_unchecked"-->
+<!--                app:showAsAction="never" />-->
+
+<!--            <item-->
+<!--                android:id="@+id/day"-->
+<!--                android:title="Per Day"-->
+<!--                android:icon="@drawable/radio_button_unchecked"-->
+<!--                app:showAsAction="never" />-->
+
+<!--            <item-->
+<!--                android:id="@+id/month"-->
+<!--                android:title="Per Month"-->
+<!--                android:icon="@drawable/radio_button_unchecked"-->
+<!--                app:showAsAction="never" />-->
+<!--        </menu>-->
+
+    </item>
+
+
+</menu>
